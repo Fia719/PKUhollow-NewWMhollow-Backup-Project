@@ -3,6 +3,10 @@
 ![Language](https://img.shields.io/badge/Language-Python-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/pkuhollow/pkuhollow/main/logo.png" alt="logo" class="center" width="100" height="100" ><br>
+</p> 
+
 ## 项目简介
 
 在我作为初学者学习Python的过程中，为了能将自己在WMhollow上的回忆进行个人备份，我编写了这个小脚本。它能够将Hollow的帖子、回复以及其中包含的图片都完整地下载到本地。
@@ -48,3 +52,4 @@
 ## 友情链接
 
 https://web.pkuhollow.com/
+https://github.com/pkuhollow2/webhole
