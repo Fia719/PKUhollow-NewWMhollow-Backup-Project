@@ -44,3 +44,7 @@
 ## 许可证
 
 本项目遵循 [MIT License](LICENSE)。
+
+## 友情链接
+
+https://web.pkuhollow.com/
