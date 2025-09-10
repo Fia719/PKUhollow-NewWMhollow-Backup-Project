@@ -1,4 +1,4 @@
-# PKU-WMhollow-Backup-Project
+# WMhollow-Backup-Project
 
 ![Language](https://img.shields.io/badge/Language-Python-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
