@@ -38,11 +38,15 @@
   <tr align="center">
     <td valign="top">
       <strong>效果图1</strong><br>
-      <img src="reader_hole2.jpg"  width="400">
+      <img src="reader_hole1.jpg"  width="400">
     </td>
     <td valign="top">
       <strong>效果图2</strong><br>
-      <img src="reader_hole1.jpg" width="400">
+      <img src="reader_hole2.jpg" width="400">
+    </td>
+    <td valign="top">
+      <strong>效果图3</strong><br>
+      <img src="reader_hole3.jpg" width="400">
     </td>
   </tr>
 </table>
