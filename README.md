@@ -27,12 +27,27 @@
 * `html_reader`脚本还增加了显示投票类树洞的功能，生成的`.html`文件可以显示投票选项及票数！
 
 ### 【2025年10月30日更新】
-* 增加了`html_reader_Ver2.0.py`，进一步美化导出效果！更新后的reader导出的备份内容尽可能复刻了[新未名树洞网页版](https://Web.pkuhollow.com)的网页设计样式，包括：
+* 增加了`html_reader_Ver2.0.py`，进一步美化导出效果！更新后的reader导出的备份内容基本复刻了[新未名树洞网页版](https://Web.pkuhollow.com)的网页设计样式，包括：
   * 背景（寻觅繁星）、标题栏、卡片形式等基本页面设计
   * 字母君名称及背景的特定哈希库颜色
   * 增加tag显示
   * 美化了上一版本reader生成树洞的高度、字号、行间距、投票内容
-* **To be continued**: 搜索功能、多条评论折叠功能
+* 目前呈现效果（夜间模式）
+
+<table>
+  <tr align="center">
+    <td valign="top">
+      <strong>效果图1</strong><br>
+      <img src="reader_hole2.jpg"  width="400">
+    </td>
+    <td valign="top">
+      <strong>效果图2</strong><br>
+      <img src="reader_hole1.jpg" width="400">
+    </td>
+  </tr>
+</table>
+
+* **To be continued**: 搜索功能、多条评论折叠与滑动功能😭
 
 ### 【2025年11月9日更新】
 * 增加了树洞活跃度统计功能！基于目前数据分析得出的24小时活跃度分布图如下：
