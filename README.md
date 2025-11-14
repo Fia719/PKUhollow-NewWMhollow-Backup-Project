@@ -95,6 +95,6 @@ https://github.com/pkuhollow2/webhole
 
 ---
 #### 日志
-2025年11月14日凌晨起，新未名树洞无法访问，有洞友反映网页显示`TypeError: NetworkError when attempting to fetch resource`或`TypeError: Failed to fetch`。由于本备份项目为作者每隔1周左右手动进行，最近的数百条树洞并未包括在内。（或许是应该学习一下如何自动备份了😭）
+2025年11月14日凌晨起，新未名树洞无法访问，有洞友反映网页显示`TypeError: NetworkError when attempting to fetch resource`或`TypeError: Failed to fetch`。由于本备份项目为作者每隔1周左右手动进行，最近的数百条树洞并未包括在内。（或许是应该学习一下如何自动备份了😭）希望新未名只是遇到了暂时的问题并能够重返人间！
 
-希望新未名只是遇到了暂时的问题并能够重返人间！
+2025年11月14日晚10点左右，新未名树洞复活，备份已更新🥰
